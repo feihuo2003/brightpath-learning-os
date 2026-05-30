@@ -30,6 +30,14 @@ that feels personal. Each completed lesson can unlock stars, badges, gems, or
 other rewards, making the system feel less like a worksheet site and more like
 the child's own learning adventure.
 
+## Demo Screenshots
+
+The screenshots below use demo-safe learner data.
+
+![BrightPath placement setup](./public/screenshots/dashboard.png)
+
+![BrightPath personalized math lesson](./public/screenshots/math-demo.png)
+
 ## Core Loop
 
 1. A child completes a placement flow.
