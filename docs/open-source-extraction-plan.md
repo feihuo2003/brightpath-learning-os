@@ -79,7 +79,8 @@ A small but honest OSS release:
 - architecture docs
 - type definitions for identity, curriculum, progress, and rewards
 - one demo-safe lesson flow
+- one placement-to-personalized-course example
+- one reward-after-completion example
 - one Playwright privacy regression
 
 This is enough to show real maintainership without exposing private data.
-

@@ -13,23 +13,33 @@ than a generic homework chatbot.
 General AI chat can answer questions, but children need structure:
 
 - placement before instruction
-- daily guided lessons
+- personalized course paths based on the child's real level
+- daily guided lessons that feel made for the learner
 - hints instead of answer dumping
 - review loops for weak skills
 - parent-visible progress
-- rewards tied to real learning
+- small rewards tied to real learning completion
 - strong separation between private child data and public demos
 
 BrightPath is designed around that product loop.
 
+The core idea is simple: a child should not be dropped into a fixed course just
+because they are in a certain grade. BrightPath starts with a placement flow,
+finds the learner's current level and focus areas, then assigns a course path
+that feels personal. Each completed lesson can unlock stars, badges, gems, or
+other rewards, making the system feel less like a worksheet site and more like
+the child's own learning adventure.
+
 ## Core Loop
 
 1. A child completes a placement flow.
-2. The system assigns a starting point and focus areas.
-3. The child works through daily guided lessons.
-4. Mistakes and hard items are saved for review.
-5. Progress, rewards, and recommended next steps sync to a parent dashboard.
-6. Demo tenants never see private child photos, voice clips, or progress.
+2. The system estimates the child's current level, strengths, and focus areas.
+3. The system assigns a personalized course path from versioned curriculum.
+4. The child works through daily guided lessons.
+5. Mistakes and hard items are saved for review instead of blocking progress.
+6. Completed learning unlocks small rewards that reinforce motivation.
+7. Progress, rewards, and recommended next steps sync to a parent dashboard.
+8. Demo tenants never see private child photos, voice clips, or progress.
 
 ## Current Modules
 
@@ -74,4 +84,3 @@ apps. This repository is the clean public home for the reusable framework.
 ## License
 
 Apache-2.0. See [LICENSE](./LICENSE).
-

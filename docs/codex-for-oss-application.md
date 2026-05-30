@@ -12,7 +12,7 @@ https://github.com/feihuo2003/brightpath-learning-os
 ## Why Is This Repo Eligible?
 
 ```text
-I am the primary maintainer of BrightPath Learning OS, an open-source child learning framework for personalized curriculum, progress memory, review loops, rewards, parent dashboards, and privacy-safe demo tenants. It helps families and educators build structured learning tools beyond generic AI chatbots.
+I am the primary maintainer of BrightPath Learning OS, an open-source child learning framework with placement tests, personalized course paths, progress memory, review loops, learning rewards, parent dashboards, and privacy-safe demo tenants. It helps families and educators build structured tools beyond generic AI chatbots.
 ```
 
 ## How Would You Use API Credits?
@@ -24,6 +24,5 @@ I would use API credits to improve OSS maintainer workflows: automated PR review
 ## Anything Else?
 
 ```text
-The project grew from a real private learning system for my daughter, then was generalized into a privacy-safe open-source framework. The goal is to help families and educators build child-safe, structured, measurable learning experiences. Much of the system has been built and maintained with Codex.
+The project grew from a real private learning system for my daughter, then was generalized into a privacy-safe open-source framework. Its key idea is that each child should start with placement, receive a course path matched to their level, and stay motivated through small rewards and review loops. Much of the system has been built and maintained with Codex.
 ```
-

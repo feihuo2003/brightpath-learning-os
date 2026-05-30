@@ -13,11 +13,13 @@ profile=demo-child
 ## Flow
 
 1. Placement asks a few broad questions.
-2. The app chooses a starting lesson.
-3. The learner completes concept, model, solve, and reflect steps.
-4. A wrong or hard item is saved for review instead of blocking the child.
-5. The parent dashboard shows progress and recommended next action.
-6. The demo page renders only demo-safe images and data.
+2. The app estimates the learner's current level and focus areas.
+3. The app chooses a personalized starting lesson instead of forcing a fixed grade path.
+4. The learner completes concept, model, solve, and reflect steps.
+5. A wrong or hard item is saved for review instead of blocking the child.
+6. Lesson completion unlocks a small reward such as stars, a badge, or a gem.
+7. The parent dashboard shows progress, rewards, and recommended next action.
+8. The demo page renders only demo-safe images and data.
 
 ## Expected Event Shape
 
@@ -31,4 +33,3 @@ profile=demo-child
   { "type": "dashboard.summary.updated" }
 ]
 ```
-
