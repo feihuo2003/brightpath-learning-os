@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+.vercel/
+*.log
+.DS_Store
+public/assets/pics/
+public/assets/voices/
+public/assets/audio/private/
+
